@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0%;
+}
+.v1 {
+  position: fixed;
+  z-index: -1;
+  height: 100vh;
+}
+.contenedor {
+  position: absolute;
+  z-index: 1;
+}
+h1 {
+  font-family: "Roboto";
+  font-weight: 300;
+  color: white;
+}
+
+.video {
+  width: 100%;
+}
+.wimk {
+  width: 100%;
+}
+.imagen img {
+  width: 100%;
+}
+li {
+  list-style: none;
+}
+a {
+  background-color: rgb(49, 49, 49);
+}
+a img {
+  height: 100px;
+  background-color: rgb(49, 49, 49);
+}
